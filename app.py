@@ -1,1 +1,1 @@
-print("Hello Sai , How ru doing today ?")
+print("Hello Sai , Today is sunday ?")
